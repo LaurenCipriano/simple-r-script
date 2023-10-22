@@ -8,7 +8,9 @@
 #--------------------------------------------------------------
 
 # read in the sample data -------------------------------------
+setwd("H:/GitHub/simple-r-script")
 data <- read.csv('data.csv')
 
+summary(data)
 
 # calculate summary statistics --------------------------------
