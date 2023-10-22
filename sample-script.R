@@ -12,5 +12,6 @@ setwd("H:/GitHub/simple-r-script")
 data <- read.csv('data.csv')
 
 summary(data)
+# Jacob: make this graph with blue bars not purple!
 
 # calculate summary statistics --------------------------------
